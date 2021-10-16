@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on commercial applications for Spanish content in NLP.
 - 📫 How to reach me lezama@lacartita.com.
 
-<!---
 
 
 My name is Ricardo Lezama, I am a Chicano linguist based out of California and the tri-state area (New York, New Jersey and Philadelphia). 
@@ -29,5 +28,4 @@ The latter for me means Python, open source libraries for NLP and a lot of Keras
 
 I currently work in Bloomberg LP as part of the News Indexing team. That News Indexing product is likely the best news classification engine in the world, with Reuters likely being a second or alternate candidate for that 1 spot. 
 I don’t have the information to evaluate that they are, though, so, I stick to Bloomberg’s News Classification product being the top dog.
-
---->
+ 
